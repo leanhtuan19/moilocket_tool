@@ -1,0 +1,10 @@
+mở cmd chạy lệnh
+
+pip install -r requirements.txt
+hoặc
+py -m pip install -r requirements.txts
+
+sử dụng proxy có sẵn hoặc nếu có proxy riêng thì thêm vào file proxy.txt
+
+chạy start.bat
+
